@@ -1,0 +1,11 @@
+package testJava;
+
+public class father {	
+	char var0;
+	char var1;
+	private char var2OfPri;
+	father(){
+		var2OfPri=(char)10;
+		System.out.println(var2OfPri);
+	}
+}
